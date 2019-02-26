@@ -29,3 +29,6 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 *.sublime-project
 /tests/tests/
 /tests/results/
+
+## Exclude CI user_guide in git
+user_guide/*
